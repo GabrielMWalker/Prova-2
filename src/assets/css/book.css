@@ -1,0 +1,32 @@
+.caixa {
+  width: 210px;
+  height: 348px;
+  border: 1px solid #1976d2;
+  border-bottom: 0;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.image {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+}
+.description {
+  padding: 0.5em;
+  margin: 1em 0 0 0;
+  text-align: center;
+  justify-content: center;
+}
+.authors {
+  color: #888;
+  font-weight: 300;
+}
+.moveTo {
+  width: 242px;
+  height: 48px;
+  justify-content: center;
+  border: 1px solid #1976d2;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top: 0;
+}

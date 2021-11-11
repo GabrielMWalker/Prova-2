@@ -1,0 +1,18 @@
+.container {
+  display: grid;
+  width: 940px;
+  margin: 0 auto;
+}
+
+.page404-imagem {
+  margin: 10% auto 2% auto;
+  width: 100%;
+  max-width: 25rem;
+}
+
+.page404-text {
+  width: 940px;
+  margin: 4 auto;
+  font-weight: bold;
+  text-align: center;
+}
